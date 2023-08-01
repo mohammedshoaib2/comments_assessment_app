@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634324206297",
+    "project_id": "comments-assessment-app",
+    "storage_bucket": "comments-assessment-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634324206297:android:64a6b45a89a91f15caf4c8",
+        "android_client_info": {
+          "package_name": "com.example.comments_assessment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634324206297-leub9o2btepoenq5kg6ovu64cdc72k0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCnWfJSA6sRwMb9O4yLn0-sGjLRHAgpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634324206297-leub9o2btepoenq5kg6ovu64cdc72k0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
